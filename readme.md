@@ -4,4 +4,4 @@
 
 -Abril Nuñez
 -Leandro Mumbach
--Angel Salvador Romero
+-Angel Salvador Romero, Edad:27 , Residencia:Longchamps,Buenos Aires
