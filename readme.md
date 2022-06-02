@@ -2,6 +2,6 @@
 
 ## Integrantes
 
+-Leandro Mumbach, edad: 27, Ciudad: San Miguel
 -Abril Nuñez, 18 años, San Miguel. 
--Leandro Mumbach
--Angel Salvador Romero, Edad:27 , Residencia:Longchamps,Buenos Aires
+-Angel Salvador Romero, 27 años, Longchamps
